@@ -1,6 +1,7 @@
 # README
 
 Ruby on Rails complete course !!!
+Klajdi Leskaj
 
 Things you may want to cover:
 
