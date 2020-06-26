@@ -1,7 +1,7 @@
 # README
 
 Ruby on Rails complete course !!!
-Klajdi Leskaj
+This is the first test app in repo
 
 Things you may want to cover:
 
